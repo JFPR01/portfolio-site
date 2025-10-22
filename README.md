@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Electrical Engineer Portfolio</title>
+    <title> Electrical Engineer Portfolio </title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <h1>John Smith</h1>
-        <p>Electrical Engineering Graduate | University of Houston</p>
+        <h1>Juan Felipe Pardo R</h1>
+        <p>Electrical Engineering Graduate | University of Houston | GreenCard Holder</p>
     </header>
     <nav>
         <ul>
