@@ -12,6 +12,7 @@
     body {
       font-family: 'Helvetica', Sans-serif;
       font-size: 18px;
+	  color: black;
     }
     h1 {
       font-family: Verdana, sans-serif;
